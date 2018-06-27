@@ -7,8 +7,8 @@ A curated list of eateries in Singapore
 * [Jim Thompson](http://www.jimthompsonrestaurant.com/)
 * [Nara Thai](http://www.narathai.com.sg/)
 #### Mookata (Thai Barbeque)
-    * [Siam Square Mookata at Golden Mile](https://sethlui.com/siam-square-mookata-singapore-review/)
-    * [Mookata Thai BBQ at East Coast Rd](http://www.mookata.com/)
+* [Siam Square Mookata at Golden Mile](https://sethlui.com/siam-square-mookata-singapore-review/)
+* [Mookata Thai BBQ at East Coast Rd](http://www.mookata.com/)
 
 ### Indian
 #### Northern
